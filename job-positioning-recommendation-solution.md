@@ -2,7 +2,7 @@ Yes — and I think the distinction you're making is very important.
 
 Your problem is not really “I don't have enough projects.” Your problem is that your résumé currently makes your experience look like a collection of technologies rather than a clear hiring proposition.
 
-1. What “résumé positioning” actually means
+## 1. What “résumé positioning” actually means
 
 Think of positioning as answering this question in the recruiter's head:
 
@@ -28,37 +28,37 @@ You're trying to make them think:
 
 And then your Flutter experience becomes an additional advantage rather than the thing you're trying to sell.
 
-2. You actually have more backend experience than you seem to think
+## 2. You actually have more backend experience than you seem to think
 
 Look at your résumé objectively.
 
 You have:
 
-3 months Backend Developer experience
-20+ REST APIs
-Node.js
-TypeScript
-Express
-PostgreSQL
-Supabase
-JWT
-RBAC
-4 user roles
-1,900+ users
-8+ database entities
-bulk data ingestion
-reporting/aggregation logic
-1,000+ records onboarded
-another project with 30+ REST APIs
-MongoDB
-JWT authentication
-password hashing
-Cloudinary
-MVC
-Redis/BullMQ/GraphQL listed in skills
-Python + Django
-full-stack knowledge
-700+ LeetCode problems
+- 3 months Backend Developer experience
+- 20+ REST APIs
+- Node.js
+- TypeScript
+- Express
+- PostgreSQL
+- Supabase
+- JWT
+- RBAC
+- 4 user roles
+- 1,900+ users
+- 8+ database entities
+- bulk data ingestion
+- reporting/aggregation logic
+- 1,000+ records onboarded
+- another project with 30+ REST APIs
+- MongoDB
+- JWT authentication
+- password hashing
+- Cloudinary
+- MVC
+- Redis/BullMQ/GraphQL listed in skills
+- Python + Django
+- full-stack knowledge
+- 700+ LeetCode problems
 
 That's not the profile of someone who needs to pretend to be a beginner backend developer.
 
@@ -72,7 +72,7 @@ That's a very different proposition from:
 
 “Fresher looking for any software job.”
 
-3. Your lack of Flutter projects isn't actually a major problem
+## 3. Your lack of Flutter projects isn't actually a major problem
 
 This is where I think you're being unnecessarily hard on yourself.
 
@@ -110,7 +110,7 @@ Flutter Developer + Backend Developer + React + Django + Python + Full Stack + D
 
 A recruiter looking for one particular role may not immediately know what you are.
 
-4. I would actually create different versions of your résumé
+## 4. I would actually create different versions of your résumé
 
 This is probably the biggest change I'd make.
 
@@ -120,22 +120,22 @@ You don't need 10 résumés.
 
 You need around 3 targeted versions.
 
-Version A — Backend / Software Engineer
+### Version A — Backend / Software Engineer
 
 This should be your main résumé.
 
 Target:
 
-Backend Engineer
-Backend Developer
-Node.js Developer
-Software Engineer
-Junior Software Engineer
-Full Stack Developer
-Node.js + React
-Node.js + Next.js
-Python Backend Developer
-Django Developer
+- Backend Engineer
+- Backend Developer
+- Node.js Developer
+- Software Engineer
+- Junior Software Engineer
+- Full Stack Developer
+- Node.js + React
+- Node.js + Next.js
+- Python Backend Developer
+- Django Developer
 
 Your professional identity becomes:
 
@@ -145,15 +145,15 @@ Your Kody Flutter internship still stays on the résumé, because it's real prof
 
 But the backend experience gets much more visual emphasis.
 
-Version B — Flutter / Mobile Developer
+### Version B — Flutter / Mobile Developer
 
 Use this specifically when applying to:
 
-Flutter Developer
-Flutter Engineer
-Mobile Developer
-Android/Flutter Developer
-Cross-platform Developer
+- Flutter Developer
+- Flutter Engineer
+- Mobile Developer
+- Android/Flutter Developer
+- Cross-platform Developer
 
 Now Kody becomes the centerpiece.
 
@@ -171,17 +171,17 @@ That's much stronger than:
 
 “Fresher Flutter developer with a few Flutter projects.”
 
-Version C — Full Stack
+### Version C — Full Stack
 
 For:
 
-Full Stack Developer
-Full Stack Engineer
-MERN
-Node + React
-Next.js
-Python + React
-Django + React
+- Full Stack Developer
+- Full Stack Engineer
+- MERN
+- Node + React
+- Next.js
+- Python + React
+- Django + React
 
 You position yourself as:
 
@@ -189,15 +189,15 @@ Full Stack Software Engineer with backend-heavy experience and professional Flut
 
 This is where your React/Next.js knowledge and backend projects become useful.
 
-5. And here's the important part: don't invent projects
+## 5. And here's the important part: don't invent projects
 
 You don't need to suddenly build:
 
-another Todo app
-another weather app
-another e-commerce clone
-another chat app
-another Netflix clone
+- another Todo app
+- another weather app
+- another e-commerce clone
+- another chat app
+- another Netflix clone
 
 just because you think recruiters demand “projects.”
 
@@ -215,7 +215,7 @@ Your backend internship is legitimate experience.
 
 Instead of creating five mediocre projects, I'd rather see you turn one existing project into an extremely strong portfolio piece.
 
-6. Your Video Streaming Backend could become much more valuable
+## 6. Your Video Streaming Backend could become much more valuable
 
 Right now your résumé says:
 
@@ -229,26 +229,26 @@ But your GitHub project should make someone think:
 
 For example, the project could demonstrate:
 
-authentication
-authorization
-JWT
-refresh tokens
-password hashing
-MongoDB schema design
-pagination
-validation
-error handling
-API documentation
-Docker
-testing
-deployment
-logging
-rate limiting
-file/video upload
-Cloudinary
-caching if appropriate
-clean architecture
-database indexing
+- authentication
+- authorization
+- JWT
+- refresh tokens
+- password hashing
+- MongoDB schema design
+- pagination
+- validation
+- error handling
+- API documentation
+- Docker
+- testing
+- deployment
+- logging
+- rate limiting
+- file/video upload
+- Cloudinary
+- caching if appropriate
+- clean architecture
+- database indexing
 
 You don't need to implement every buzzword.
 
@@ -256,33 +256,33 @@ You need to make one project genuinely good.
 
 Then your résumé can say something much stronger than “built 30 APIs.”
 
-7. Your existing experience can compensate for your lack of projects
+## 7. Your existing experience can compensate for your lack of projects
 
 Imagine two candidates.
 
-Candidate A
+### Candidate A
 
-Fresher
-8.0 CGPA
-Built 5 CRUD projects
-React
-Node
-MongoDB
-Java
+Fresher  
+8.0 CGPA  
+Built 5 CRUD projects  
+React  
+Node  
+MongoDB  
+Java  
 200 LeetCode
 
-Candidate B — you
+### Candidate B — you
 
-B.Tech graduate
-3 months backend development experience
-20+ REST APIs
-PostgreSQL
-RBAC
-1,900+ users
-6 months professional Flutter development
-50+ Flutter screens
-83% video startup improvement
-Open-source contributor
+B.Tech graduate  
+3 months backend development experience  
+20+ REST APIs  
+PostgreSQL  
+RBAC  
+1,900+ users  
+6 months professional Flutter development  
+50+ Flutter screens  
+83% video startup improvement  
+Open-source contributor  
 700+ LeetCode
 
 For a junior backend position, Candidate B has a very compelling story.
@@ -293,7 +293,7 @@ The problem is that if the résumé is presented poorly, Candidate B can look li
 
 That's what we need to prevent.
 
-8. Your headline should change depending on the job
+## 8. Your headline should change depending on the job
 
 This is particularly important on Cutshort, Instahyre, Wellfound, YC, etc.
 
@@ -321,7 +321,7 @@ We're simply deciding which part of your existing experience is most relevant to
 
 That's what positioning is.
 
-9. I would also change your résumé summary
+## 9. I would also change your résumé summary
 
 Your current summary:
 
@@ -341,7 +341,7 @@ Backend. Node. TypeScript. PostgreSQL. Real users. Real APIs.
 
 That's positioning.
 
-10. There's another issue: your Skills section is too broad
+## 10. There's another issue: your Skills section is too broad
 
 This is probably hurting you more than helping.
 
@@ -401,7 +401,7 @@ This subtly communicates:
 
 Backend first. Everything else second.
 
-11. Your 6 months of Flutter experience is actually useful for backend applications
+## 11. Your 6 months of Flutter experience is actually useful for backend applications
 
 This is an underrated advantage.
 
@@ -409,15 +409,15 @@ A backend engineer who has worked on Flutter understands what happens on the oth
 
 You can understand:
 
-API consumption
-pagination
-authentication flows
-client-side state
-network failures
-API response design
-loading states
-performance
-mobile constraints
+- API consumption
+- pagination
+- authentication flows
+- client-side state
+- network failures
+- API response design
+- loading states
+- performance
+- mobile constraints
 
 So rather than hiding Flutter, you can turn it into:
 
@@ -431,7 +431,7 @@ A startup may like someone who can say:
 
 That's more useful than simply having another CRUD project.
 
-12. Where I think you should position yourself overall
+## 12. Where I think you should position yourself overall
 
 If I were managing your job search, I would make the hierarchy:
 
@@ -461,7 +461,7 @@ You have genuine professional experience here, so this isn't a fallback based on
 
 React / Next.js / Python / Django roles where the job description is genuinely junior-friendly.
 
-13. And one very important correction to your job-search strategy
+## 13. And one very important correction to your job-search strategy
 
 You said you've been applying for roughly two months and getting almost no response.
 
@@ -485,7 +485,7 @@ Find company → inspect tech stack → identify engineering need → apply → 
 
 That's where your profile becomes much more interesting.
 
-14. Your biggest advantage isn't your résumé
+## 14. Your biggest advantage isn't your résumé
 
 This might sound strange, but I think it's true.
 
@@ -534,4 +534,3 @@ That is a much more marketable profile.
 And importantly, you don't need to manufacture experience or fill the résumé with fake-looking projects to get there.
 
 If you want, the next thing I'd do is take this exact résumé and rebuild it specifically for your #1 target: Node.js / Backend Engineer, section by section—including what to remove, what to move up, what to rewrite, what keywords to add, and what the final one-page résumé should look like.
-
