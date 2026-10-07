@@ -1,5 +1,6 @@
 ### Processor quality sequence
 
+sort the table based on the camera quality >> processor >> ip68 n 69 rating >> nits >> battery >> whats in the box
 **7 Gen 3 < 7s Gen 4 < 7 Gen 4 ≲ 7+ Gen 3 << Dimensity 9300/9300+ < Snapdragon 8s Gen 4 < Dimensity 9400e < Dimensity 8500 Extreme ≲ Exynos 2400e**
 
 | Name                        | Camera                                                    | Processor                  | IP68/IP69 rating        |          Nits | Battery                     | What's in the box                                                     | Flipkart & Amazon price                               |
